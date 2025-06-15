@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@color/profilegreen" />
+    <corners
+        android:bottomLeftRadius="0sp"
+        android:bottomRightRadius="0sp"
+        android:topLeftRadius="230sp"
+        android:topRightRadius="230sp" />
+</shape>

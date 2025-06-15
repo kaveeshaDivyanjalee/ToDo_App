@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="thicBlack">#000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="lightPurple">#DAD1E4</color>
+    <color name="todoPurple">#9883AE</color>
+    <color name="buttonPurple">#8173C2</color>
+    <color name="lightGreen">#D5F7E6</color>
+    <color name="darkGreen">#01B399</color>
+    <color name="numberGreen">#00DFC0</color>
+    <color name="tickGreen">#31EC2D</color>
+    <color name="deleteRed">#C27373</color>
+    <color name="darkgreen">#0B432A</color>
+    <color name="darkViolet">#211461</color>
+    <color name="profilegreen">#01B298</color>
+    <color name="blue">#6360F0</color>
+    <color name="grey">#96969A</color>
+    <color name="abotpurple">#6A5E9E</color>
+</resources>
